@@ -49,7 +49,7 @@ Ou podemos acessar o link:
 * O conceito das classes no CSS
 * Divisões de conteúdo, utilizando a tag `<div>`
 * Que não é recomendado criar estilos usando tags
-  * O ideal é usarmos classes para tudo
+  * O ideal é usarmos classes para tudo.
 
 <hr>
 
