@@ -1,5 +1,5 @@
 body {
-    background: #ff9d9d;
+    
     margin: 0%;
 }
 
@@ -25,4 +25,31 @@ em strong {
    height: 1000px;
 
    
+}
+
+.principal{
+    background: #ffbcbc;
+    margin: 0%;
+    padding: 30px;
+}
+.beneficios{
+    background:#ffffff;
+    padding: 20px;
+    
+
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagemBeneficios{
+    width: 50%;
 }
