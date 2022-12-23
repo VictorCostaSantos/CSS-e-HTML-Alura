@@ -1,5 +1,6 @@
 body {
-    background: #CCCCCC
+    background: #ff9d9d;
+    margin: 0%;
 }
 
 p {
@@ -12,4 +13,16 @@ h1{
 
 em strong {
     color: #FF0000;
+}
+
+#sobre{
+    font-size: 20px
+}
+
+#banner{
+
+   width: 100%;
+   height: 1000px;
+
+   
 }
