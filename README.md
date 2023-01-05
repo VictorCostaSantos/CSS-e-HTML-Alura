@@ -5,10 +5,10 @@
 
 # Sobre o Projeto:
 
-Site desenvolvido com base no curso [HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-primeiros-passos), na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/). O objetivo foi consolidar os conhecimentos iniciais de HTML5 e CSS3. <br>
+Site desenvolvido com base no curso HTML5 e CSS3 parte 1 e parte 2, na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/). O objetivo foi consolidar os conhecimentos iniciais de HTML5 e CSS3. <br>
     Com base nesses conhecimentos desenvolvidos, criei a página "**Pizzaria Alura**". 
 
-<img style="max-with: 1000px" src="https://media3.giphy.com/media/MvurwlDtfwS7qsrqzX/giphy.gif?cid=790b761142b7e4d24116fae062e82e36ef7cf806858d1d5b&rid=giphy.gif&ct=g"/>
+<img style="max-with: 1000px" src="blob:https://giphy.com/f5adf1bd-d92f-470f-a5c7-d29ddd2a75ef"/>
 
     
 
@@ -39,7 +39,7 @@ Ou podemos acessar o link:
 
 <hr>
 
-## O que foi aprendido :brain:
+## O que foi aprendido:brain:
 
 * introdução ao HTML e às suas tags
 * A definir a estrutura básica do HTML
@@ -50,6 +50,9 @@ Ou podemos acessar o link:
 * Divisões de conteúdo, utilizando a tag `<div>`
 * Que não é recomendado criar estilos usando tags
   * O ideal é usarmos classes para tudo.
+* o uso de tag semântica
+* Arquivo reset.css
+* uso de alguns tags para o posicionamento  
 
 <hr>
 
