@@ -1,15 +1,9 @@
-body {
-    
-    margin: 0%;
-}
 
 p {
     text-align: center;
     font-size: 20px;
 }
-h1{
-    text-align: center;
-}
+
 
 em strong {
     color: #FF0000;
@@ -54,7 +48,7 @@ h2{
     text-align: center;
 }
 
-ul{
+.beneficios ul{
     display: inline-block;
     vertical-align: top;
     width: 20%;
