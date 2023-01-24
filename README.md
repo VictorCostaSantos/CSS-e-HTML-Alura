@@ -1,14 +1,14 @@
 
 # Pizzaria Alura <img style="width: 40px" src="https://cdn-icons-png.flaticon.com/512/790/790226.png" alt="">
     
-### Status do projeto: <img style="width: 40px" src="http://www.geocities.ws/pepeletras/gif_construcao.gif" alt="">
+### Status do projeto: <img style="width: 40px" src="https://media.tenor.com/0AVbKGY_MxMAAAAM/check-mark-verified.gif" alt="">
 
 # Sobre o Projeto:
 
 Site desenvolvido com base no curso HTML5 e CSS3 parte 1 e parte 2, na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/). O objetivo foi consolidar os conhecimentos iniciais de HTML5 e CSS3. <br>
     Com base nesses conhecimentos desenvolvidos, criei a página "**Pizzaria Alura**". 
 
-<img style="max-with: 1000px" src="blob:https://giphy.com/f5adf1bd-d92f-470f-a5c7-d29ddd2a75ef"/>
+<img style="max-with: 100px" src="https://media2.giphy.com/media/RIRp6AGHx5kLdJ74c7/giphy.gif?cid=790b7611d9710ad0f9316502bc38a09d22e77fbc26aaf504&rid=giphy.gif&ct=g"/>
 
     
 
